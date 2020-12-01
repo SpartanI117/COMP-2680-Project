@@ -1,10 +1,17 @@
 Sony owns the PS5 logo
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-These links are the sources for the icons used
 https://www.playstation.com/en-us/ps5/ for PS5 image
 https://www.youtube.com/watch?v=zxfhf-V4JFQ&t=64s Video used for help in creating home page
 https://www.ultraleap.com/company/news/blog/what-is-haptic-feedback/#:~:text=Haptic%20feedback%20is%20the%20use,is%20much%20more%20than%20that. Haptic Feedback information
 https://www.tomsguide.com/reviews/ps5
 https://www.techradar.com/reviews/ps5
+IGN Review: https://www.ign.com/articles/playstation-5-review
+TechRadar Review: https://www.techradar.com/reviews/ps5
+CNN Review: https://www.cnn.com/2020/11/06/tech/ps5-playstation-5-review/index.html
+Tom's Guide Review: https://www.tomsguide.com/reviews/ps5
+IGN Youtube Review: https://www.youtube.com/watch?v=QoAZEK52zRc
+Cnet Youtube Review: https://www.youtube.com/watch?v=ti7cId1NfHo&t=87s
+Engadget Review: https://www.engadget.com/sony-playstation-5-review-130048353.html
+IGN Logo: https://nintendo.fandom.com/wiki/IGN
+Techradar Logo: https://www.vhv.rs/viewpic/iTTRTwh_techradar-logo-png-transparent-png/
+CNN Logo: https://commons.wikimedia.org/wiki/File:CNN.svg
+Tom's Guide Logo: https://www.crunchbase.com/organization/tom-s-guide
